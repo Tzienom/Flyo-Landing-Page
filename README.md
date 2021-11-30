@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-flyo-landing-page-with-two-column-layout-OEhsAJ1e5)
+- Live Site URL: [https://tzienom-flyo-landing-page.netlify.app/](https://tzienom-flyo-landing-page.netlify.app/)
 
 ## My process
 
