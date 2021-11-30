@@ -24,6 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
+![375px Layout](./screenshot/375px.png)
+![1440px Layout](./screenshot/1440px.png)
 ![HTML Code](./screenshot/html.png)
 ![HTML Code](./screenshot/html.png)
 ![CSS Code](./screenshot/css.png)
