@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![HTML Code](./screenshot/html.jpg)
-![HTML Code](./screenshot/html.jpg)
-![CSS Code](./screenshot/css.jpg)
-![CSS Code](./screenshot/css2.jpg)
-![CSS Code](./screenshot/css3.jpg)
-![QUERIES Code](./screenshot/queries.jpg)
-![QUERIES Code](./screenshot/queries2.jpg)
+![HTML Code](./screenshot/html.png)
+![HTML Code](./screenshot/html.png)
+![CSS Code](./screenshot/css.png)
+![CSS Code](./screenshot/css2.png)
+![CSS Code](./screenshot/css3.png)
+![QUERIES Code](./screenshot/queries.png)
+![QUERIES Code](./screenshot/queries2.png)
 
 ### Links
 
